@@ -1,6 +1,6 @@
 {
   "name": "vue-ex-types",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "vue 项目常用的一些辅助声明",
   "types": "./index.d.ts",
   "repository": {
