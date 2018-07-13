@@ -2,3 +2,5 @@ node_modules/
 pushlish.sh
 .gitignore
 Screenshots/
+yarn.lock
+.vscode
