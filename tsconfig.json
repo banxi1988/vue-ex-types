@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "none",
+    "lib": ["esnext"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "baseUrl": "./",
+    "types": ["vue-router"],
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

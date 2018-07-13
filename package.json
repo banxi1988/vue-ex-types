@@ -1,0 +1,28 @@
+{
+  "name": "vue-ex-types",
+  "version": "1.0",
+  "description": "vue 项目常用的一些辅助声明",
+  "types": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banxi1988/vue-ex-types.git"
+  },
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [
+    "vue",
+    "vue-router",
+    "typescript"
+  ],
+  "author": "banxi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banxi1988/vue-ex-types/issues"
+  },
+  "homepage": "https://github.com/banxi1988/vue-ex-types#readme",
+  "devDependencies": {
+    "typescript": "next",
+    "vue-router": "^3.0.1"
+  }
+}
